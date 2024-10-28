@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your Together AI API key
-TOGETHER_API_KEY = "5fcf925beb59d20bb8a809ab8c993c0593d1d875fe8fa26f40d42480648e7606"
+TOGETHER_API_KEY = "YOUR API KEY"
 TOGETHER_API_URL = "https://api.together.xyz/v1/llama3"
 
 def call_llama(prompt):
